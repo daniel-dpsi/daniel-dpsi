@@ -1,4 +1,4 @@
-### 🚀 Daniel G. | DigitalPulse Solutions
+### 🚀 About Me
 <hr />
 
 **Backend Developer** specializing in the LAMP stack with over 4+ years experience building backend infrastructure and APIs.
