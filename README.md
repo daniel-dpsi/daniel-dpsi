@@ -1,7 +1,7 @@
 ### 🚀 About Me
 <hr />
 
-**Backend Developer** specializing in the LAMP stack with over 4+ years experience building backend infrastructure and APIs.
+**Backend Developer** specializing in the LAMP stack with over 3+ years experience building backend infrastructure and APIs.
 
 **Database Admnistrator** expertise in designing, implementing, and optimizing database systems with maximum efficiency.
 
