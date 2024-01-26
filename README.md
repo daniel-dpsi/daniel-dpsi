@@ -20,12 +20,3 @@
 ![image](https://github.com/pwrdaniel/pwrdaniel/assets/51021466/cbb5b4c3-d75c-47ed-9767-6cc0961862a1)
 
 <hr />
-
-### 📃 Freelance Credientials
-
-![image](https://github.com/pwrdaniel/pwrdaniel/assets/51021466/735f2afb-af97-4c4d-bb0e-5bd68fa06cf8)
-
-
-
-
-<hr />
